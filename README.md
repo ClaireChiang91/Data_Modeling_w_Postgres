@@ -4,5 +4,5 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 Therefore, the work includes creating a database schema and ETL pipelines for analyses. 
 
 ## Data Model
-<img src="https://github.com/ClaireChiang91/Data_Modeling_w_Postgres/blob/main/data_model.png" width="250">
+<img src="https://github.com/ClaireChiang91/Data_Modeling_w_Postgres/blob/main/data_model.png" width="350">
 https://github.com/ClaireChiang91/Data_Modeling_w_Postgres/blob/main/data_model.png
