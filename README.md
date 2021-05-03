@@ -5,4 +5,6 @@ Therefore, the work includes creating a database schema and ETL pipelines for an
 
 ## Data Model
 <img src="https://github.com/ClaireChiang91/Data_Modeling_w_Postgres/blob/main/data_model.png" width="1000">
-https://github.com/ClaireChiang91/Data_Modeling_w_Postgres/blob/main/data_model.png
+
+Fact table: songplays
+##
